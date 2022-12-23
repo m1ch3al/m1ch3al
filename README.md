@@ -36,12 +36,18 @@ class M1ch3al(HumanPerson):
          # Assume 10 more awesome ambitions here  ;-)
 	
  ```
-<font size='6'>Programming Languages</font>
-
+# Programming Languages
+<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/python.svg?raw=true'>
+<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/c.svg?raw=true'>
+<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/cplusplus.svg?raw=true'>
+<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/csharp.svg?raw=true'>
 
 # Current works
  * Started learning how to use and develop my FAP (**F**lipper **AP**plication) on FlipperZero !!
  * I'm learning to improve my way of writing code (firmware) for IoT devices
  * Increase my knowledge in cyber-security
  * I'm learning how to build app using Android and Kotlin
+
+<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/circuit01.png?raw=true'>
+
  
