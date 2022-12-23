@@ -1,6 +1,6 @@
 
-<font size='10'>Hi everyone, I'm M1ch3al !! </font>  
-<font size='6'>Welcome to my GitHub personal page</font>
+# Hi everyone, I'm M1ch3al !!  
+## Welcome to my GitHub personal page
  
 <div style="text-align: right;">There are 10 types of people in the world. Those who get Binary and those who don't.. <br>Cit.</div>
 
@@ -39,8 +39,9 @@ class M1ch3al(HumanPerson):
 <font size='6'>Programming Languages</font>
 
 
-<font size='6'>Current works</font>
+# Current works
  * Started learning how to use and develop my FAP (**F**lipper **AP**plication) on FlipperZero !!
  * I'm learning to improve my way of writing code (firmware) for IoT devices
+ * Increase my knowledge in cyber-security
  * I'm learning how to build app using Android and Kotlin
  
