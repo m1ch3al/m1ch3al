@@ -36,12 +36,27 @@ class M1ch3al(HumanPerson):
          # Assume 10 more awesome ambitions here  ;-)
 	
  ```
-<font size='6'>Programming Languages</font>
+# Programming Languages
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/python.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/c.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/cplusplus.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/csharp.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/java_.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/javascript.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/typescript.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/php.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/html.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/css.svg?raw=true'>
 
+
+<br><br>
 
 # Current works
  * Started learning how to use and develop my FAP (**F**lipper **AP**plication) on FlipperZero !!
  * I'm learning to improve my way of writing code (firmware) for IoT devices
  * Increase my knowledge in cyber-security
  * I'm learning how to build app using Android and Kotlin
+
+<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/circuit01.png?raw=true'>
+
  
