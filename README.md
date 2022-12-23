@@ -63,7 +63,7 @@ class M1ch3al(HumanPerson):
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/plotly.svg?raw=true'>
 
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/net.svg?raw=true'>
-<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/unity.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/unity_black.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/openlayers.svg?raw=true'>
 
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/android.svg?raw=true'>
