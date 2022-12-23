@@ -1,10 +1,10 @@
 # Hi everyone, I'm M1ch3al !!  
 <div style='float:left; margin-left:1px;'>
-<img width='250' align='center' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/code.gif?raw=true'></td>
+<img width='250' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/code.gif?raw=true'>
 </div>
 
 <div style='float:left; margin-left:1px;'>
-<img width='500' align='' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/developer.png?raw=true'></td>
+<img width='500' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/developer.png?raw=true'>
 </div>
 
 ## Welcome to my GitHub personal page
