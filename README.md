@@ -47,9 +47,36 @@ class M1ch3al(HumanPerson):
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/php.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/html.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/css.svg?raw=true'>
+<br><br><br>
 
+# Technologies
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/expressif.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/arduino.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/micropython.svg?raw=true'>
 
-<br><br>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/django.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/flask.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/jinja.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/numpy.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/scipy.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/pandas.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/plotly.svg?raw=true'>
+
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/net.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/unity.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/openlayers.svg?raw=true'>
+
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/android.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/linux.svg?raw=true'>
+
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/mariadb.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/mongo.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/mysql.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/postgresql.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/sqlite.svg?raw=true'>
+
+<br><br><br>
+
 
 # Current works
  * Started learning how to use and develop my FAP (**F**lipper **AP**plication) on FlipperZero !!
