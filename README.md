@@ -1,11 +1,6 @@
-# Hi everyone, I'm M1ch3al !!  
-<div style='float:left; margin-left:1px;'>
-<img width='250' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/code.gif?raw=true'>
-</div>
+<img width='200' align='right' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/code.gif?raw=true'>
 
-<div style='float:left; margin-left:1px;'>
-<img width='500' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/developer.png?raw=true'>
-</div>
+# Hi everyone, I'm M1ch3al !!  
 
 ## Welcome to my GitHub personal page
 
@@ -99,8 +94,6 @@ class M1ch3al(HumanPerson):
  * Increase my knowledge in cyber-security
  * I'm learning how to build app using Android and Kotlin
 
-
-<div style="text-align: right;">There are 10 types of people in the world. Those who get Binary and those who don't.. <br>Cit.</div>
 <img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/circuit01.png?raw=true'>
 
  
