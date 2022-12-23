@@ -37,10 +37,19 @@ class M1ch3al(HumanPerson):
 	
  ```
 # Programming Languages
-<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/python.svg?raw=true'>
-<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/c.svg?raw=true'>
-<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/cplusplus.svg?raw=true'>
-<img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/csharp.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/python.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/c.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/cplusplus.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/csharp.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/java.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/javascript.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/typescript.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/php.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/html.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/css.svg?raw=true'>
+
+
+<br><br>
 
 # Current works
  * Started learning how to use and develop my FAP (**F**lipper **AP**plication) on FlipperZero !!
