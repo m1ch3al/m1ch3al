@@ -41,11 +41,7 @@ class M1ch3al(HumanPerson):
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/c.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/cplusplus.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/csharp.svg?raw=true'>
-<<<<<<< HEAD
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/java_.svg?raw=true'>
-=======
-<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/java.svg?raw=true'>
->>>>>>> df911c4dbf5a173ecefc8e5d66468aab6f45369d
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/javascript.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/typescript.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/langs/php.svg?raw=true'>
