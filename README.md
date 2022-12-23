@@ -1,10 +1,15 @@
-
 # Hi everyone, I'm M1ch3al !!  
-## Welcome to my GitHub personal page
- 
-<div style="text-align: right;">There are 10 types of people in the world. Those who get Binary and those who don't.. <br>Cit.</div>
+<div style='float:left; margin-left:1px;'>
+<img width='250' align='center' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/code.gif?raw=true'></td>
+</div>
 
- ## Who am I?
+<div style='float:left; margin-left:1px;'>
+<img width='500' align='' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/developer.png?raw=true'></td>
+</div>
+
+## Welcome to my GitHub personal page
+
+# Who am I?
  ```python
 import planet_earth
 import ambitions
@@ -69,6 +74,9 @@ class M1ch3al(HumanPerson):
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/android.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/linux.svg?raw=true'>
 
+<br><br><br>
+# Database
+
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/mariadb.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/mongo.svg?raw=true'>
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/mysql.svg?raw=true'>
@@ -76,14 +84,23 @@ class M1ch3al(HumanPerson):
 <img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tech/sqlite.svg?raw=true'>
 
 <br><br><br>
+# Tools 
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tools/vscode.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tools/pycharm.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tools/atom.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tools/github.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tools/jupiter.svg?raw=true'>
+<img width='40' align='left' src='https://github.com/m1ch3al/m1ch3al/blob/main/images/tools/pypy.svg?raw=true'>
 
-
+<br><br><br>
 # Current works
  * Started learning how to use and develop my FAP (**F**lipper **AP**plication) on FlipperZero !!
  * I'm learning to improve my way of writing code (firmware) for IoT devices
  * Increase my knowledge in cyber-security
  * I'm learning how to build app using Android and Kotlin
 
+
+<div style="text-align: right;">There are 10 types of people in the world. Those who get Binary and those who don't.. <br>Cit.</div>
 <img src='https://github.com/m1ch3al/m1ch3al/blob/main/images/circuit01.png?raw=true'>
 
  
